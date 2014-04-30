@@ -8,7 +8,7 @@ DEPENDS_append_mx6 = " virtual/kernel virtual/libgles2 virtual/egl libfslvpuwrap
 PR = "r5"
 
 SRC_URI = "git://github.com/xbmc-imx6/xbmc.git"
-SRCREV="6aa1082d6906f7bedae186826859cb93095e73ff"
+SRCREV="5f53e0d6a26a03f7c646587e440c092b14c5b58e"
 S = "${WORKDIR}/git"
 
 inherit autotools lib_package pkgconfig gettext python-dir
