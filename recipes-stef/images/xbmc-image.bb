@@ -14,7 +14,7 @@ EXTRA_IMAGE_FEATURES += " \
 "
 
 IMAGE_INSTALL += " \
-	gpu-viv-bin-mx6q \
+    gpu-viv-bin-mx6q \
     dropbear \
     xbmc \
     xbmc-nm-addon \
